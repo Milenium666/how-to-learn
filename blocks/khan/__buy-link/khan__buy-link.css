@@ -1,0 +1,16 @@
+.khan__buy-link {
+    /*Высота строки 42px, шрифта 30px, начертание шрифта нормальное*/
+    color:  #2f80ed;
+    text-decoration: none;
+    
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+    margin: 0;
+    transition: .3s linear;
+    height: fit-content;
+}
+.khan__buy-link:hover {
+    opacity: .3;
+    
+  }
