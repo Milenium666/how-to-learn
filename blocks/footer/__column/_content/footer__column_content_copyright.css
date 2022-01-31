@@ -1,8 +1,6 @@
-/*Блок с лого и автором*/
 .footer__column_content_copyright {
     flex-basis: 711px;
-    flex-direction: column;
-    margin: 0;
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
   }

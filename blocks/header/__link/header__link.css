@@ -1,12 +1,11 @@
 .header__link {
-    color:  #2f80ed;
     text-decoration: none;
-    transition: .3s linear;
+    color: #2f80ed;
+    z-index: 2;
+    opacity: 1;
+    transition: opacity 1s;
   }
-  .header__link:hover {
-    opacity: .3;
-   
-  }
-  /*Все ссылки на странице при наведении мыши должны плавно становиться немного прозрачными,
 
-подберите opacity и transition на свой вкус*/
+.header__link:hover {
+  opacity: 0.6;
+}
