@@ -1,8 +1,8 @@
 .khan__quote-author {
-    line-height: 1.15em;
+    /*Высота строки 1.15, шрифта 24px, начертание шрифта полужирное*/
+    line-height: 1.15;
     font-size: 24px;
-    font-weight: 700;
-    margin-block-start: 0;
-    margin-bottom: 10px;
-    z-index: 1;
+    font-weight: bold;
+    
+    margin: 0 0 10px 0;
 }

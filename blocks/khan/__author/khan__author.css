@@ -1,7 +1,8 @@
 .khan__author {
+    /**Высота строки 42px, шрифта 30px, начертание шрифта нормальное**/
     line-height: 42px;
     font-size: 30px;
-    font-weight: 400;
-    margin-block-start: 0em;
-    margin-block-end: 0em;
+    font-weight: normal;
+    padding-top: 105px;
+    margin: 0;
 }

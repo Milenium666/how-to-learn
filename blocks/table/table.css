@@ -1,11 +1,9 @@
-.table {
+.table{
     width: 1100px;
+    margin: 0 auto 100px auto;
     display: flex;
-    justify-content: space-between;
     flex-wrap: wrap;
-    line-height: 1.15em;
-    font-size: 24px;
-    font-weight: 700;
-    z-index: 1;
-    margin: auto;
+    justify-content: space-between;
+    
+    
   }

@@ -1,11 +1,9 @@
 .khan__quote {
+    /*Высота строки 34px, шрифта 24px, начертание шрифта нормальное*/
+    max-width: 790px;
     line-height: 34px;
     font-size: 24px;
-    font-weight: 400;
-    width: 790px;
-    margin-top: 50px;
-    margin-bottom: 36px;
-    margin-inline-start: 0;
-    margin-inline-end: 0;
-    z-index: 1;
+    font-weight: normal;
+    
+    margin: 0 0 36px 0;
 }
